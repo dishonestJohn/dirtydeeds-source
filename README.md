@@ -39,19 +39,19 @@ More information at [http://95.179.233.165/](http://95.179.233.165/)
 <tr><th>#</th><th>IP</th><th>Port</th></tr>
 <tr><td>1</td><td>199.247.25.83</td><td>5780</td></tr>
   <tr><td>2</td><td>108.61.99.191</td><td>5780</td></tr>
-  <tr><td>2</td><td>95.179.198.12</td><td>5780</td></tr>
-  <tr><td>2</td><td>140.82.36.143</td><td>5780</td></tr>
-  <tr><td>2</td><td>140.82.32.102</td><td>5780</td></tr>
-  <tr><td>2</td><td>217.69.12.31</td><td>5780</td></tr>
+  <tr><td>3</td><td>95.179.198.12</td><td>5780</td></tr>
+  <tr><td>4</td><td>140.82.36.143</td><td>5780</td></tr>
+  <tr><td>5</td><td>140.82.32.102</td><td>5780</td></tr>
+  <tr><td>6</td><td>217.69.12.31</td><td>5780</td></tr>
 </table>
 
-### PoW Rewards Breakdown
+### Wallets
 
 <table>
-<th>Block Height</th><th>Masternodes</th><th>Miner</th><th>Budget</th>
-<tr><td>2-43200</td><td>20% (50 DID)</td><td>80% (200 DID)</td><td>N/A</td></tr>
-<tr><td>43201-151200</td><td>20% (50 DID)</td><td>70% (200 DID)</td><td>10% (25 DID)</td></tr>
-<tr><td>151201-259200</td><td>45% (22.5 DID)</td><td>45% (22.5 DID)</td><td>10% (5 DID)</td></tr>
+<th>OS</th><th>QT</th><th>DAEMON</th><th>V.</th>
+<tr><td>WIN.</td><td>http://95.179.233.165/downloads/dirtydeeds-qt-windows.zip</td><td>http://95.179.233.165/downloads/dirtydeeds-daemon-windows.zip</td><td>beta stable</td></tr>
+<tr><td>MAC.</td><td>http://95.179.233.165/downloads/DIRTYDEEDS-Qt.dmg</td><td>---------</td><td>beta stable</td></tr>
+<tr><td>RASP</td><td>+++++++++</td><td>+++++++++</td><td>alpha test</td></tr>
 </table>
 
 ### PoS Rewards Breakdown
