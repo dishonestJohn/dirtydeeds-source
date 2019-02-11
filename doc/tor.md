@@ -38,7 +38,7 @@ outgoing connections be anonymized, but more is possible.
 An example how to start the client if the Tor proxy is running on local host on
 port 9050 and only allows .onion nodes to connect:
 ```
-./dirtydeedsd -onion=127.0.0.1:9050 -onlynet=tor -listen=0 -addnode=dnetzj6l4cvo2fxy.onion:989
+./dirtydeedsd -onion=127.0.0.1:9050 -onlynet=tor -listen=0 -addnode=ds3345dfhfo2fxy.onion:989 
 ```
 
 In a typical situation, this suffices to run behind a Tor proxy:
@@ -92,7 +92,7 @@ your dirtydeedsd's P2P listen port (5780 by default).
 
 In a typical situation, where you're only reachable via Tor, this should suffice:
 ```
-./dirtydeedsd -proxy=127.0.0.1:9050 -externalip=dnetzj6l4cvo2fxy.onion:989 -listen
+./dirtydeedsd -proxy=127.0.0.1:9050 -externalip=ds3345dfhfo2fxy.onion:989 -listen
 ```
 
 (obviously, replace the Onion address with your own). If you don't care too much
@@ -107,20 +107,5 @@ and open port 5780 on your firewall (or use -upnp).
 If you only want to use Tor to reach onion addresses, but not use it as a proxy
 for normal IPv4/IPv6 communication, use:
 ```
-./dirtydeedsd -onion=127.0.0.1:9050 -externalip=dnetzj6l4cvo2fxy.onion:989 -discover
-```
-
-List of known DIRTYDEEDS Tor relays
-------------------------------------
-```
-y5kcscnhpygvvnjn.onion:989
-5bmhtjvn2jvwpiej.onion:989
-pyfdxkazur3iib7y.onion:989
-ok3ym5zy6m5klimk.onion:989
-i6vpvzk2jxuqqs5f.onion:989
-bgdhpb76fkbw5fmg.onion:989
-gtlqzb5zbws5di7g.onion:989
-f7j2m26rptm5f7af.onion:989
-dnetzj6l4cvo2fxy.onion:989
-s3v3n7xhqafg6sb7.onion:989
+./dirtydeedsd -onion=127.0.0.1:9050 -externalip=ds3345dfhfo2fxy.onion:989 -discover
 ```
