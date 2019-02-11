@@ -8,7 +8,7 @@ DIRTYDEEDS is an open source crypto-currency focused on fast private transaction
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftX_.
 - Decentralized blockchain voting utilizing Masternode technology to form a DAO. The blockchain will distribute monthly treasury funds based on successful proposals submitted by the community and voted on by the DAO.
 
-More information at [dirtydeeds.org](http://www.dirtydeeds.org) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=1262920)
+More information at [http://95.179.233.165/](http://95.179.233.165/)   
 
 ### Coin Specs
 <table>
@@ -20,7 +20,7 @@ More information at [dirtydeeds.org](http://www.dirtydeeds.org) Visit our ANN th
 <tr><td>Premine</td><td>60,000 DID*</td></tr>
 </table>
 
-*60,000 DID Premine was burned in block [279917](http://www.presstab.pw/phpexplorer/DIRTYDEEDS/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
+
 
 ### Reward Distribution
 
