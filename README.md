@@ -4,7 +4,7 @@ DIRTYDEEDS Core
 
 
 DIRTYDEEDS is an open source crypto-currency focused on fast private transactions with low transaction fees & environmental footprint.   The goal of DIRTYDEEDS is to achieve a decentralized sustainable crypto currency with near instant full-time private transactions, fair governance and community intelligence.
-- Anonymized transactions using the Zerocoin 
+- Anonymized transactions 
 - Fast transactions featuring guaranteed zero confirmation transactions 
 - Decentralized blockchain voting utilizing Masternode technology to form a DAO. 
 
