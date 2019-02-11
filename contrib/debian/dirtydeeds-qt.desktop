@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DIRTYDEEDS
+Comment=DIRTYDEEDS P2P Cryptocurrency
+Comment[fr]=DIRTYDEEDS, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=DIRTYDEEDS, eşten eşe kriptografik sanal para birimi
+Exec=dirtydeeds-qt %u
+Terminal=false
+Type=Application
+Icon=dirtydeeds128
+MimeType=x-scheme-handler/dirtydeeds;
+Categories=Office;Finance;

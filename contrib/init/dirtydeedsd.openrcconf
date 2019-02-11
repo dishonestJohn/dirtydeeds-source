@@ -1,0 +1,26 @@
+# /etc/conf.d/dirtydeedsd: config file for /etc/init.d/dirtydeedsd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/dirtydeeds/dirtydeeds.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/dirtydeedsd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/dirtydeedsd.pid"
+
+# Where to write dirtydeedsd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/dirtydeedsd"
+
+# User and group to own dirtydeedsd process
+#BITCOIND_USER="dirtydeeds"
+#BITCOIND_GROUP="dirtydeeds"
+
+# Path to dirtydeedsd executable
+#BITCOIND_BIN="/usr/bin/dirtydeedsd"
+
+# Nice value to run dirtydeedsd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

@@ -1,0 +1,26 @@
+[Unit]
+Description=DIRTYDEEDS's distributed currency daemon
+After=network.target
+
+[Service]
+User=dirtydeeds
+Group=dirtydeeds
+
+Type=forking
+PIDFile=/var/lib/dirtydeedsd/dirtydeedsd.pid
+
+ExecStart=/usr/bin/dirtydeedsd -daemon -pid=/var/lib/dirtydeedsd/dirtydeedsd.pid \
+          -conf=/etc/dirtydeeds/dirtydeeds.conf -datadir=/var/lib/dirtydeedsd
+
+ExecStop=-/usr/bin/dirtydeeds-cli -conf=/etc/dirtydeeds/dirtydeeds.conf \
+         -datadir=/var/lib/dirtydeedsd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
