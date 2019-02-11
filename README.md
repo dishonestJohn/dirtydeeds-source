@@ -25,7 +25,7 @@ Dirty Block explorer at [140.82.36.143](http://140.82.36.143:3001/)
     <tr><td>RPC/P2P ports</td><td>5779/5780</td></tr>
      <tr><td>MN amount</td><td>3600 DID</td></tr>
    <tr><td>MN rewards</td><td>63%</td></tr>
-       <tr><td>MN conf.</td><td>18 DID</td></tr>
+       <tr><td>MN conf.</td><td>18</td></tr>
 
   
 </table>
