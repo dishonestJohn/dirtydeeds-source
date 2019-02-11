@@ -31,12 +31,18 @@ More information at [http://95.179.233.165/](http://95.179.233.165/)
 
 
 
-### MN phase
+
+### More nodes for fast sync.
 
 <table>
-<th colspan=4>Genesis Block</th>
-<tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
-<tr><td>1</td><td>60,000 DID</td><td>Initial Pre-mine, burnt in block <a href="http://www.presstab.pw/phpexplorer/DIRTYDEEDS/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0">279917</a></td></tr>
+<th colspan=4>Nodes</th>
+<tr><th>#</th><th>IP</th><th>Port</th></tr>
+<tr><td>1</td><td>199.247.25.83</td><td>5780</td></tr>
+  <tr><td>2</td><td>108.61.99.191</td><td>5780</td></tr>
+  <tr><td>2</td><td>95.179.198.12</td><td>5780</td></tr>
+  <tr><td>2</td><td>140.82.36.143</td><td>5780</td></tr>
+  <tr><td>2</td><td>140.82.32.102</td><td>5780</td></tr>
+  <tr><td>2</td><td>217.69.12.31</td><td>5780</td></tr>
 </table>
 
 ### PoW Rewards Breakdown
