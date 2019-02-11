@@ -13,16 +13,25 @@ More information at [http://95.179.233.165/](http://95.179.233.165/)
 ### Coin Specs
 <table>
 <tr><td>Algo</td><td>Quark</td></tr>
-<tr><td>Block Time</td><td>60 Seconds</td></tr>
-<tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>43,199,500 DID</td></tr>
-<tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
-<tr><td>Premine</td><td>60,000 DID*</td></tr>
+<tr><td>Target spacing</td><td>9 min.</td></tr>
+<tr><td>Timespan</td><td>18 min.</td></tr>
+  <tr><td>Trans. conf.</td><td>9</td></tr>
+<tr><td>Max Coin Supply (POW Phase)</td><td>810,000 DID</td></tr>
+  <tr><td>Rewards (PoW Phase)</td><td>45 DID</td></tr>
+  <tr><td>Last POW block</td><td>18000</td></tr>
+<tr><td>Max Coin Supply (POS Phase)</td><td>Inf*</td></tr>
+  <tr><td>Rewards (POS Phase)</td><td>54 DID</td></tr>
+    <tr><td>RPC/P2P ports</td><td>5779/5780</td></tr>
+     <tr><td>MN amount</td><td>3600 DID</td></tr>
+   <tr><td>MN rewards</td><td>63%</td></tr>
+       <tr><td>MN conf.</td><td>18 DID</td></tr>
+
+  
 </table>
 
 
 
-### Reward Distribution
+### MN phase
 
 <table>
 <th colspan=4>Genesis Block</th>
