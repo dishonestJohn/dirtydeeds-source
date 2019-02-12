@@ -51,6 +51,7 @@ Dirty Block explorer at [140.82.36.143](http://140.82.36.143:3001/)
 <table>
 <th>OS</th><th>QT</th><th>DAEMON</th><th>V.</th>
 <tr><td>WIN.</td><td>http://95.179.233.165/downloads/dirtydeeds-qt-windows.zip</td><td>http://95.179.233.165/downloads/dirtydeeds-daemon-windows.zip</td><td>beta stable</td></tr>
+  <tr><td>LIN.</td><td>http://95.179.233.165/downloads/dirtydeeds-qt-linux.tar.gz</td><td>http://95.179.233.165/downloads/dirtydeeds-daemon-linux.tar.gz</td><td>beta stable</td></tr>
 <tr><td>MAC.</td><td>http://95.179.233.165/downloads/DIRTYDEEDS-Qt.dmg</td><td>---------</td><td>beta stable</td></tr>
 <tr><td>RASP</td><td>+++++++++</td><td>+++++++++</td><td>alpha test</td></tr>
 </table>
