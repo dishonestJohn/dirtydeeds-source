@@ -12,7 +12,7 @@ DIRTYDEEDS Core
 <b>Let's be honest, we are in the crypto for the money and our dirty deeds. We have seen lot's of ICOs, crowdfunding campaigns, ETF promises and scam schemes. All was made to decriminalize the blockchain, attract big investors, but nothing for our primer needs. Privacy, trust and security.</b>
 <br>
 The reason for a fork is current corrupted ideology. We could not imagine that in 6 years crypto will be asking for SEC or Govt. approval for what we do, begging investors to buy privacy/security projects and keeping an eye what mass media is thinking about crypto. 
-<br><br>
+
 Web page [95.179.233.165](http://95.179.233.165/)   
 Dirty Block explorer at [140.82.36.143](http://140.82.36.143:3001/)
 
