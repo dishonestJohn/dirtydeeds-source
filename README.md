@@ -8,7 +8,7 @@ DIRTYDEEDS is an open source crypto-currency focused on fast private transaction
 - Fast transactions featuring guaranteed zero confirmation transactions 
 - Decentralized blockchain voting utilizing Masternode technology to form a DAO. 
 
-More information at [95.179.233.165](http://95.179.233.165/)   
+Web page [95.179.233.165](http://95.179.233.165/)   
 Dirty Block explorer at [140.82.36.143](http://140.82.36.143:3001/)
 
 ### Coin Specs
