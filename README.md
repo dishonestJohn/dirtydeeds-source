@@ -13,6 +13,7 @@ DIRTYDEEDS Core
 <br>
 The reason for a fork is current corrupted ideology. We could not imagine that in 6 years crypto will be asking for SEC or Govt. approval for what we do, begging investors to buy privacy/security projects and keeping an eye what mass media is thinking about crypto. 
 
+<img src="http://95.179.233.165/13ss-13.png">
 
 
 <br>Web page [95.179.233.165](http://95.179.233.165/)   
