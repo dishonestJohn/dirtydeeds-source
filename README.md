@@ -1,7 +1,7 @@
 DIRTYDEEDS Core 
 =====================================
 
-<img src="http://140.82.36.143:3001/images/did.png">
+<img src="http://95.179.233.165/dd-01.jpg">
 
 <s>DIRTYDEEDS is an open source crypto-currency focused on fast private transactions with low transaction fees & environmental footprint.   The goal of DIRTYDEEDS is to achieve a decentralized sustainable crypto currency with near instant full-time private transactions, fair governance and community intelligence.
 - Anonymized transactions 
